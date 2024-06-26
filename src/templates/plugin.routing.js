@@ -1,6 +1,6 @@
 import './middleware'
 import Vue from 'vue'
-import { withoutTrailingSlash, withTrailingSlash } from '~i18n-ufo'
+import { withoutTrailingSlash, withTrailingSlash } from 'ufo'
 import { Constants, nuxtOptions, options } from './options'
 import { getDomainFromLocale } from './plugin.utils'
 

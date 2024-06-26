@@ -1,5 +1,5 @@
 import isHTTPS from 'is-https'
-import { hasProtocol } from '~i18n-ufo'
+import { hasProtocol } from 'ufo'
 import { localeMessages, options } from './options'
 import { formatMessage } from './utils-common'
 
