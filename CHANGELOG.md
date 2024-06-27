@@ -1,5 +1,14 @@
 
 
+## [7.4.0-0](https://github.com/nuxt-community/i18n-module/compare/v7.3.1...v7.4.0-0) (2024-06-27)
+
+
+### Bug Fixes
+
+* **ci:** cannot set NODE_OPTIONS using $GITHUB_ENV ([29c59ea](https://github.com/nuxt-community/i18n-module/commit/29c59ea184b5ef66a59f61b739b546e2bbd31e11))
+* **ci:** set NODE_OPTIONS for crypto ([6029695](https://github.com/nuxt-community/i18n-module/commit/602969574b60546a0eb083b6d9cd20633db6868f))
+* remove alias import ([46790b1](https://github.com/nuxt-community/i18n-module/commit/46790b189ce3c68d19a7cdd4b55ee457145d1312))
+
 ### [7.3.1](https://github.com/nuxt-community/i18n-module/compare/v7.3.0...v7.3.1) (2023-01-09)
 
 
