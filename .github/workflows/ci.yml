@@ -5,6 +5,7 @@ on:
   push:
     branches:
     - main
+    - fix/nuxt-bridge-vite
   pull_request:
     branches:
     - main
